@@ -1,0 +1,127 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>MOF.DEF.Q_N</td>
+	</tr><tr>
+		<td>Description</td><td>Total deficit -Central government</td>
+	</tr><tr>
+		<td>Frequency</td><td>Quarterly (Q)</td>
+	</tr><tr>
+		<td>Units</td><td>NIS, million</td>
+	</tr><tr>
+		<td>Price base</td><td>Current prices</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>Ministry of Finance</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>-</td>
+	</tr><tr>
+		<td>Documentation</td><td>The data refers to the central government, i.e., the government itself, excluding the national institutions, municipalities and nonprofit organisations. Calculated on a cash basis.</td>
+	</tr><tr>
+		<td>Main subject</td><td>Public Sector Activity</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>The Budget, Deficit and Debt</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>30/09/2009</td><td>            -2943.267000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>           -15111.548000</td>
+	</tr><tr>
+		<td>31/03/2010</td><td>            -2300.641000</td>
+	</tr><tr>
+		<td>30/06/2010</td><td>            -5045.079000</td>
+	</tr><tr>
+		<td>30/09/2010</td><td>            -2264.499000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>           -14694.210000</td>
+	</tr><tr>
+		<td>31/03/2011</td><td>             2659.603000</td>
+	</tr><tr>
+		<td>30/06/2011</td><td>            -4843.381000</td>
+	</tr><tr>
+		<td>30/09/2011</td><td>            -3574.931000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>           -17346.260000</td>
+	</tr><tr>
+		<td>31/03/2012</td><td>             -352.330000</td>
+	</tr><tr>
+		<td>30/06/2012</td><td>            -8524.817000</td>
+	</tr><tr>
+		<td>30/09/2012</td><td>            -7788.959000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>           -17885.625000</td>
+	</tr><tr>
+		<td>31/03/2013</td><td>            -3688.432000</td>
+	</tr><tr>
+		<td>30/06/2013</td><td>            -4395.118000</td>
+	</tr><tr>
+		<td>30/09/2013</td><td>            -2550.347000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>           -17812.776000</td>
+	</tr><tr>
+		<td>31/03/2014</td><td>              684.292000</td>
+	</tr><tr>
+		<td>30/06/2014</td><td>            -3310.953000</td>
+	</tr><tr>
+		<td>30/09/2014</td><td>            -5295.402000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>           -18036.427000</td>
+	</tr><tr>
+		<td>31/03/2015</td><td>             2328.300000</td>
+	</tr><tr>
+		<td>30/06/2015</td><td>            -2538.765000</td>
+	</tr><tr>
+		<td>30/09/2015</td><td>             1073.152000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>           -19318.568000</td>
+	</tr><tr>
+		<td>31/03/2016</td><td>             1681.311000</td>
+	</tr><tr>
+		<td>30/06/2016</td><td>            -3313.491000</td>
+	</tr><tr>
+		<td>30/09/2016</td><td>            -2582.651000</td>
+	</tr><tr>
+		<td>31/12/2016</td><td>           -18615.344000</td>
+	</tr><tr>
+		<td>31/03/2017</td><td>            -1793.387000</td>
+	</tr><tr>
+		<td>30/06/2017</td><td>            -6034.237000</td>
+	</tr><tr>
+		<td>30/09/2017</td><td>             4390.600000</td>
+	</tr><tr>
+		<td>31/12/2017</td><td>           -19634.652000</td>
+	</tr><tr>
+		<td>31/03/2018</td><td>            -1738.496000</td>
+	</tr><tr>
+		<td>30/06/2018</td><td>            -5302.632000</td>
+	</tr><tr>
+		<td>30/09/2018</td><td>           -15721.965000</td>
+	</tr><tr>
+		<td>31/12/2018</td><td>           -14565.582000</td>
+	</tr><tr>
+		<td>31/03/2019</td><td>            -9073.024000</td>
+	</tr><tr>
+		<td>30/06/2019</td><td>           -12643.315000</td>
+	</tr><tr>
+		<td>30/09/2019</td><td>            -8891.020000</td>
+	</tr><tr>
+		<td>31/12/2019</td><td>           -20948.691000</td>
+	</tr><tr>
+		<td>31/03/2020</td><td>           -13189.432000</td>
+	</tr><tr>
+		<td>30/06/2020</td><td>           -45772.881000</td>
+	</tr><tr>
+		<td>30/09/2020</td><td>           -43999.134000</td>
+	</tr><tr>
+		<td>31/12/2020</td><td>           -56732.030000</td>
+	</tr>
+</table>

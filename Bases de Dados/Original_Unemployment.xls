@@ -1,0 +1,115 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>UE_R.Q</td>
+	</tr><tr>
+		<td>Description</td><td>Unemployed - Rate</td>
+	</tr><tr>
+		<td>Frequency</td><td>Quarterly (Q)</td>
+	</tr><tr>
+		<td>Units</td><td>Percent</td>
+	</tr><tr>
+		<td>Price base</td><td>-</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>AVERAGED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Chained according to the definitions of the monthly survey. For details, see http://www.cbs.gov.il/publications12/saka0112Q/pdf/intro_f_e.pdf.</td>
+	</tr><tr>
+		<td>Main subject</td><td>Real Economic Activity</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>Labor Force and Demographics</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>Employment and Wages</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>Unemployment - by Labor Force Survey</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>31/03/2010</td><td>                8.800000</td>
+	</tr><tr>
+		<td>30/06/2010</td><td>                7.400000</td>
+	</tr><tr>
+		<td>30/09/2010</td><td>                9.100000</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>                8.200000</td>
+	</tr><tr>
+		<td>31/03/2011</td><td>                7.100000</td>
+	</tr><tr>
+		<td>30/06/2011</td><td>                6.600000</td>
+	</tr><tr>
+		<td>30/09/2011</td><td>                7.700000</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>                6.900000</td>
+	</tr><tr>
+		<td>31/03/2012</td><td>                6.700000</td>
+	</tr><tr>
+		<td>30/06/2012</td><td>                6.600000</td>
+	</tr><tr>
+		<td>30/09/2012</td><td>                7.000000</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>                7.100000</td>
+	</tr><tr>
+		<td>31/03/2013</td><td>                6.500000</td>
+	</tr><tr>
+		<td>30/06/2013</td><td>                6.200000</td>
+	</tr><tr>
+		<td>30/09/2013</td><td>                6.300000</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>                5.800000</td>
+	</tr><tr>
+		<td>31/03/2014</td><td>                5.700000</td>
+	</tr><tr>
+		<td>30/06/2014</td><td>                5.600000</td>
+	</tr><tr>
+		<td>30/09/2014</td><td>                6.400000</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>                5.800000</td>
+	</tr><tr>
+		<td>31/03/2015</td><td>                5.300000</td>
+	</tr><tr>
+		<td>30/06/2015</td><td>                4.900000</td>
+	</tr><tr>
+		<td>30/09/2015</td><td>                5.500000</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>                5.300000</td>
+	</tr><tr>
+		<td>31/03/2016</td><td>                5.000000</td>
+	</tr><tr>
+		<td>30/06/2016</td><td>                4.500000</td>
+	</tr><tr>
+		<td>30/09/2016</td><td>                5.100000</td>
+	</tr><tr>
+		<td>31/12/2016</td><td>                4.600000</td>
+	</tr><tr>
+		<td>31/03/2017</td><td>                4.200000</td>
+	</tr><tr>
+		<td>30/06/2017</td><td>                4.200000</td>
+	</tr><tr>
+		<td>30/09/2017</td><td>                4.200000</td>
+	</tr><tr>
+		<td>31/12/2017</td><td>                4.200000</td>
+	</tr><tr>
+		<td>31/03/2018</td><td>                3.600000</td>
+	</tr><tr>
+		<td>30/06/2018</td><td>                3.800000</td>
+	</tr><tr>
+		<td>30/09/2018</td><td>                4.300000</td>
+	</tr><tr>
+		<td>31/12/2018</td><td>                4.300000</td>
+	</tr><tr>
+		<td>31/03/2019</td><td>                3.900000</td>
+	</tr><tr>
+		<td>30/06/2019</td><td>                3.700000</td>
+	</tr><tr>
+		<td>30/09/2019</td><td>                3.900000</td>
+	</tr><tr>
+		<td>31/12/2019</td><td>                3.800000</td>
+	</tr>
+</table>

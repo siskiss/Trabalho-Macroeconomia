@@ -1,0 +1,127 @@
+﻿<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Code</td><td>CHAINED.GDP.Q_N</td>
+	</tr><tr>
+		<td>Description</td><td>Gross domestic product - Linked data</td>
+	</tr><tr>
+		<td>Frequency</td><td>Quarterly (Q)</td>
+	</tr><tr>
+		<td>Units</td><td>NIS, million</td>
+	</tr><tr>
+		<td>Price base</td><td>Current prices</td>
+	</tr><tr>
+		<td>Seasonal adjustment</td><td>Original</td>
+	</tr><tr>
+		<td>Data source</td><td>CBS</td>
+	</tr><tr>
+		<td>Data type</td><td>SUMMED</td>
+	</tr><tr>
+		<td>Process</td><td>Bank of Israel - Statistical Data Management</td>
+	</tr><tr>
+		<td>Documentation</td><td>Due to changes in the characterization and definition of the National Accounts data, against the background of the adoption of a new SNA standard beginning from 1995, the data were concatenated by the Bank of Israel via concatenation coefficients that were calculated in transition periods while maintaining original rates of change. Therefore, the values concatenated before 1995 are not official data, but rather are the results of said concatenation while maintaining the official rates of change as published by the Central Bureau of Statistics.</td>
+	</tr><tr>
+		<td>Main subject</td><td>Real Economic Activity</td>
+	</tr><tr>
+		<td>Sub subject 1</td><td>National Accounts</td>
+	</tr><tr>
+		<td>Sub subject 2</td><td>GDP and Use of Resources</td>
+	</tr><tr>
+		<td>Sub subject 3</td><td>&nbsp;</td>
+	</tr><tr>
+		<td>Sub subject 4</td><td>&nbsp;</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>30/09/2009</td><td>           211411.166000</td>
+	</tr><tr>
+		<td>31/12/2009</td><td>           210478.999800</td>
+	</tr><tr>
+		<td>31/03/2010</td><td>           213459.069200</td>
+	</tr><tr>
+		<td>30/06/2010</td><td>           222525.345700</td>
+	</tr><tr>
+		<td>30/09/2010</td><td>           225795.073900</td>
+	</tr><tr>
+		<td>31/12/2010</td><td>           229458.199200</td>
+	</tr><tr>
+		<td>31/03/2011</td><td>           230924.124000</td>
+	</tr><tr>
+		<td>30/06/2011</td><td>           234889.433000</td>
+	</tr><tr>
+		<td>30/09/2011</td><td>           242482.736100</td>
+	</tr><tr>
+		<td>31/12/2011</td><td>           246319.179900</td>
+	</tr><tr>
+		<td>31/03/2012</td><td>           244413.115400</td>
+	</tr><tr>
+		<td>30/06/2012</td><td>           250847.561000</td>
+	</tr><tr>
+		<td>30/09/2012</td><td>           257278.604500</td>
+	</tr><tr>
+		<td>31/12/2012</td><td>           258801.287800</td>
+	</tr><tr>
+		<td>31/03/2013</td><td>           256550.337700</td>
+	</tr><tr>
+		<td>30/06/2013</td><td>           270594.902500</td>
+	</tr><tr>
+		<td>30/09/2013</td><td>           271001.185400</td>
+	</tr><tr>
+		<td>31/12/2013</td><td>           276894.530100</td>
+	</tr><tr>
+		<td>31/03/2014</td><td>           274532.526700</td>
+	</tr><tr>
+		<td>30/06/2014</td><td>           276962.735300</td>
+	</tr><tr>
+		<td>30/09/2014</td><td>           280163.411500</td>
+	</tr><tr>
+		<td>31/12/2014</td><td>           292991.199200</td>
+	</tr><tr>
+		<td>31/03/2015</td><td>           290542.661900</td>
+	</tr><tr>
+		<td>30/06/2015</td><td>           293216.325600</td>
+	</tr><tr>
+		<td>30/09/2015</td><td>           291603.477500</td>
+	</tr><tr>
+		<td>31/12/2015</td><td>           303958.184200</td>
+	</tr><tr>
+		<td>31/03/2016</td><td>           301448.460700</td>
+	</tr><tr>
+		<td>30/06/2016</td><td>           304830.148700</td>
+	</tr><tr>
+		<td>30/09/2016</td><td>           312999.361800</td>
+	</tr><tr>
+		<td>31/12/2016</td><td>           317780.099700</td>
+	</tr><tr>
+		<td>31/03/2017</td><td>           313907.689500</td>
+	</tr><tr>
+		<td>30/06/2017</td><td>           319317.647800</td>
+	</tr><tr>
+		<td>30/09/2017</td><td>           322738.920100</td>
+	</tr><tr>
+		<td>31/12/2017</td><td>           333560.865700</td>
+	</tr><tr>
+		<td>31/03/2018</td><td>           329681.510800</td>
+	</tr><tr>
+		<td>30/06/2018</td><td>           333017.937500</td>
+	</tr><tr>
+		<td>30/09/2018</td><td>           337932.578700</td>
+	</tr><tr>
+		<td>31/12/2018</td><td>           351900.970900</td>
+	</tr><tr>
+		<td>31/03/2019</td><td>           351857.460000</td>
+	</tr><tr>
+		<td>30/06/2019</td><td>           351042.398200</td>
+	</tr><tr>
+		<td>30/09/2019</td><td>           362532.203900</td>
+	</tr><tr>
+		<td>31/12/2019</td><td>           369185.114100</td>
+	</tr><tr>
+		<td>31/03/2020</td><td>           355979.239200</td>
+	</tr><tr>
+		<td>30/06/2020</td><td>           329613.607000</td>
+	</tr><tr>
+		<td>30/09/2020</td><td>           359790.139500</td>
+	</tr><tr>
+		<td>31/12/2020</td><td>           377252.462800</td>
+	</tr>
+</table>
